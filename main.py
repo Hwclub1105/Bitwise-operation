@@ -1,4 +1,4 @@
-def Vernan_decode(binary,mask='',operation=''):
+def bitwiseOperation(binary,mask='',operation=''):
     list1 = []
     list2 = []
     for char in binary:
